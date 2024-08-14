@@ -126,7 +126,7 @@ const BloodLossSimulation = () => {
       {showGif && (
         <div className="w-1/2 flex items-center justify-center">
           <img
-            src="Calculus--Controlling-RBC-Loss-Simulation/blood_loss_simulation.gif"
+            src="blood_loss_simulation.gif"
             alt="Blood Loss Simulation GIF"
             className="max-w-full max-h-full"
           />
